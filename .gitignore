@@ -1,0 +1,10 @@
+*.m~
+*.swp
+*.pdf
+*.asv
+*.out
+/old/*
+**/personal/*
+**/+personal/*
+.vscode
+**/.DS_Store
